@@ -1,0 +1,8 @@
+<div class="woocommerce-product-details__short-description">
+
+<img class="alignnone wp-image-1671" src="https://noithatminhtri.com/wp-content/uploads/2017/07/doitradedang.jpg" alt="Đổi trả dễ dàng" width="250" height="56" />
+<img class="alignnone wp-image-1672" src="https://noithatminhtri.com/wp-content/uploads/2017/07/giaonhantienloi.jpg" alt="giao nhận tiện lợi" width="250" height="54" />
+<img class="alignnone wp-image-1673" src="https://noithatminhtri.com/wp-content/uploads/2017/07/haumaichudao.jpg" alt="Hậu mãi chu đáo" width="250" height="53" />
+<img class="alignnone wp-image-1674" src="https://noithatminhtri.com/wp-content/uploads/2017/07/lapdatchuyennghiep.jpg" alt="Lắp đặt chuyên nghiệp" width="250" height="53" />
+
+</div>

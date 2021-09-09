@@ -1,0 +1,257 @@
+/* Menu Header */
+/* ktmenu */
+/* icontrangchu */
+.sectiondv .rowdv .icon1 .icon-box-img:hover{
+	animation: ro 3s linear infinite;
+}
+@keyframes ro {
+  0%{
+    transform: rotate(0);
+  }
+  100%{
+    transform: rotate(360deg);
+  }
+}
+.header-bottom .sub-menu.nav-dropdown.nav-dropdown-default{
+	background-color:#E0FFFF;
+	font-weight:bold;
+}
+.header-bottom .sub-menu.nav-dropdown.nav-dropdown-default .menu-item a{
+	color:black;
+}
+.header-bottom .sub-menu.nav-dropdown.nav-dropdown-default .menu-item a:hover{
+	color:#FF8C00;
+}
+/* trangchu */ 
+.sectionsp .textsptrangchu {
+    margin-left: 4.8%;
+}
+
+h3.product-section-title.container-width.product-section-title-related.pt-half.pb-half.uppercase {
+    margin-right: 15%;
+}
+
+.product-small.box .box-text.box-text-products {
+	text-align:center;
+}
+
+.box-text.box-text-products .title-wrapper p a{
+	color:black;
+	font-size:15px;
+	font-weight:bold;
+}
+.box-text.box-text-products .title-wrapper p a:hover{
+	color:red;
+}
+.box-text.box-text-products .price-wrapper .price .woocommerce-Price-amount.amount{
+	color:red;
+}
+
+/* button-hotline */
+.buttonizer.buttonizer-group.buttonizer-group-0-0-1 {
+	margin: -30px -67px;
+}
+/* kttrangchu */
+/* footer */
+.ux-menu-link__text{
+	color:black;
+}
+.ux-menu-link__text:hover{
+	color:red;
+}
+.ux-menu-link__icon.text-center.icon-facebook{
+	color:blue;
+}
+.ux-menu-link__icon.text-center.icon-twitter{
+	color:#00FFFF;
+}
+.ux-menu-link__icon.text-center.icon-google-plus{
+	color:#FF4500;
+}
+/* ktfooter */
+/* lienhe */
+input.wpcf7-form-control.wpcf7-submit.button {
+    background-color: #FF8C00!important;
+}
+input.wpcf7-form-control.wpcf7-submit.button:hover {
+    background-color: red!important;
+}
+/* ktlienhe */
+/* gioithieu */
+.sectiongt .section-content.relative {
+    margin: 0 67px;
+}
+/* ktgioithieu */
+/* tintuc */
+.entry-content.single-page {
+    color: black;
+}
+.entry-content.single-page h3{
+	color:black
+}
+
+.sectiontt .texttt a:hover{
+	color:red;
+}
+/* css trang guong */
+.sectiontt .image-zoom::after{
+	background: rgba(0, 0, 0, 0) linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 100%) repeat scroll 0 0;
+            content: "";
+            display: block;
+            height: 100%;
+            position: absolute;
+            right: -75%;
+            top: 0;
+            transform: skewX(-25deg);
+            width: 50%;
+            z-index: 2;
+}
+.sectiontt .image-zoom:hover::after{
+	animation: 1s ease 0s normal none 1 running fixedAnim;
+            animation: 1s ease 0s normal none 1 running fixedAnim;
+            -webkit-animation: 1s ease 0s normal none 1 running fixedAnim;
+            -moz-animation: 1s ease 0s normal none 1 running fixedAnim;
+}
+@-webkit-keyframes fixedAnim {
+            0% {
+                right: 125%;
+            }
+            125% {
+                right: 0;
+            }
+        }
+
+        @-moz-keyframes fixedAnim {
+            0% {
+                right: 125%;
+            }
+            125% {
+                right: 0;
+            }
+        }
+
+        @keyframes fixedAnim {
+            0% {
+                right: 125%
+            }
+            125% {
+                right: 0;
+            }
+        }
+/* ktcss */
+.entry-header .entry-header-text.entry-header-text-top.text-center{
+	display:none;
+}
+
+/* kttintuc */
+/* xuhuong */
+.sectionxh .wap_ml {
+    background: #f9f9f9;
+    border: 1px solid #aaa;
+    padding: 10px;
+    margin-bottom: 1em;
+    width: auto;
+    display: table;
+    font-size: 95%;
+    font-size: 13px;
+}
+.sectionxh .textxh a:hover{
+	color:#FF8C00;
+}
+.sectionxh .mucluc a{
+	color:black;
+}
+.sectionxh .colwgetxh {
+	font-weight:bold;
+}
+.sectionxh .widget-title.shop-sidebar , .widget-title{
+	color:#FF8C00;
+}
+.sectionxh .product-categories a:hover {
+	color:#FF8C00;
+}
+.sectionxh .product-categories .cat-item.cat-item-15 a{
+	display:none;
+}
+.sectionxh .product_list_widget .product-title:hover {
+	color:#FF8C00;
+}
+/* ktxuhuong */
+/* huongdandathang */
+.sectionhddh .textbddh{
+	border: 1px solid black;
+
+	background-color: #FFFFE0;
+}
+.sectionhddh .textbddh h6{
+	color:black
+}
+.sectionhddh strong{
+	display:contents;
+}
+.sectionhddh .colwgethddh {
+	font-weight:bold;
+}
+.sectionhddh .product-categories a:hover {
+	color:#FF8C00;
+}
+.sectionhddh .product-categories .cat-item.cat-item-15 a{
+	display:none;
+}
+.sectionhddh .product_list_widget .product-title:hover {
+	color:#FF8C00;
+}
+/* kthuongdan */
+/* noithatbanquaygd */
+.sectionbanquaydd .textbanquaydd {
+    margin-left: 4.8%;
+}
+
+.sectionspbanquay .noithatbanquay a{
+	color:black;
+}
+.sectionspbanquay .noithatbanquay a:hover{
+	color:red;
+}
+
+/* ktbanquay */
+/* thietke-thicong */
+.sectiontktc .rowicontktc strong{
+	margin: 0 -20px;
+}
+/* kttktc */
+.product-main .product-title.product_title.entry-title{
+	color:black;
+}
+.add-to-cart-button a{
+	display:none;
+}
+.box a {
+    display:block;
+}
+
+.ho .hzPeekabled .btn-readmore a {
+    color: #333;
+    font-size: 13px;
+    font-style: italic;
+    border-bottom: 1px solid #333;
+}
+.product-footer .tab-panels {
+    color: black;
+}
+#breadcrumbs_10 .ty-breadcrumbs.clearfix {
+    margin-left: 65px;
+}
+.col-inner.box-shadow-2 .box{
+	white-space:nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.product-small.box .title-wrapper{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	height: 40px;
+}

@@ -1,0 +1,72 @@
+Trang web sử dụng plugin : 
+	+ UpdraftPlus - Backup/Restore : Dùng để backup file , backup dữ liệu , theme , ...
+	+ Thanh Toán Quét Mã QR - Momo,Zalo Pay,Moca Grab, AirPay : Dùng để quét mã QR thanh toán qua Momo,Zalo Pay,Moca Grab, AirPay
+	+ Use Any Font : Dùng để định dạng font chữ theo mình .
+	+ Nextend Social Login : Dùng để làm login tích hợp vào FB , GG , TW.... ( nếu phát triển mạnh thêm ).
+	+ Floating Contact Buttons : Dùng in ra icon Hotline , Zalo , FB , Địa Chỉ , Box Chat .
+
+6/7/2021 : ngày nhận hosting + tên miền .
+7/7/2021 : tìm hiểu về nội dung website và sản phẩm , tham khảo trang web , tham khảo plugin.
+8/7 - 9/7/2021 : bắt đầu viết website , hoàn thành Trang Chủ .
+9/7/2021 : làm xong được trang Liên Hệ.
+10/7/2021 : xong trang Giới thiệu + Tin Tức + Xu Hướng .
+12/7/2021 : sửa giao diện do nhóm đế bạt ý kiến và làm xong trang Hướng Dẫn Đặt Hàng .
+13/7/2021 : xong trang Nội Thất Bàn Quầy Giao Dịch.
+14/7/2021 : nửa trag chính Nội Thất Văn Phòng (Bàn Lãnh Đạo "https://schools.numberzero.club/noithatvanphong/banvanphong/ban-lanh-dao/")
+15/7/2021 : xong trang con Bàn Văn Phòng (https://schools.numberzero.club/noithatvanphong/banvanphong/)
+16/7/2021 : xong trang con Ghế Văn Phòng (https://schools.numberzero.club/noithatvanphong/ghevanphong/), Tủ - Kệ Văn Phòng(https://schools.numberzero.club/noithatvanphong/tukevanphong/)
+17/7/2021 : xong trang con Chân Bàn Văn Phòng (https://schools.numberzero.club/noithatvanphong/chanbanvanphong/)
+18/7/2021 : tích hợp plugin Thanh Toán Điện Tử .
+19/7/2021 : xong trang Hệ Bàn https://schools.numberzero.club/noithatvanphong/heban/)
+20/7/2021 : Nghỉ xả stress :)))
+21/7/2021 : xong trang Thiết Kế Thi Công (https://schools.numberzero.club/thiet-ke-thi-cong/)
+22/7/2021 : xong trang Ngoại Thất .
+22/7/2021 : xong trang chính Nội Thất Gia Đình
+23/7/2021 : xong trang con Nội Thất Phòng Khách (http://schools.numberzero.club/noi-that-gia-dinh/noi-that-phong-khach/)
+24 - 25/7/2021 : vẫn làm tiếp trang Nội Thất Phòng Khách (http://schools.numberzero.club/noi-that-gia-dinh/noi-that-phong-khach/)
+26/7/2021 :
+27/7/2021 :
+28/7/2021 :
+29/7/2021 :
+30/7/2021 :
+31/7/2021 :
+
+
+Những trang web tham khảo về nội dung cũng như sản phẩm : Nội Thất Minh Trí , Nội Thất Văn Phòng , HOmeoffice, dwell.com/shop, Google(lấy ảnh, tiêu đề sp).
+
+Phần Của Trần Hoàn Thiện ( được giao 13/7/2021)
+	+ Viết file Word báo cáo khóa luận
+	+ Làm trang Giới Thiệu , Liên Hệ ( dẫn form liên hệ ra nhiều trang ) ,Hướng dẫn đặt hàng.
+	+ Làm Plguin tích hợp thanh toán điện tử ( momo ,zalopay,...)
+
+Phần của Vũ Văn Trường
+	+ Logo Web
+	+ Giao Diện Web
+	+ Trang chủ
+	+ Sản Phẩm
+	+ Xu Hướng
+	+ Tin Tức
+	+ Ngoại Thất ( trang con : Bàn Ngoài Trời , Ghế Ngoài Trời , Bộ Bàn Ghế , Ghế Xích Đu)
+	+ Thiết kế - thi công (Thiết kế thi công Shop - ShowRoom,Nhà Hàng - Quán CaFe,Văn Phòng , Phòng cho thuê,Trường học, Căn Hộ - Nhà Phố)
+	+ Nội Thất Văn Phòng ( https://schools.numberzero.club/noithatvanphong/ )
+		+ Bàn Văn Phòng (Bàn "lãnh đạo, nhân viên(100x60cm,120x60cm,120x70cm,140x60cm,140x70cm), Cụm 2 người (3,4,6,8),Bàn Họp, Lễ Tân")
+		+ Ghế Văn Phòng	(Ghế "lãnh đạo, nhân viên, chân quỳ, gấp gọn, băng công cộng, hội trường)
+		+ Tủ - Kệ Văn Phòng (Tủ - Kệ "Tủ Hồ sơ,Kệ Trang Trí Văn Phòng, Phụ kiện trên bàn, Tủ di động)
+		+ Hệ Bàn (Hệ "Uconcept, Rectang, Oval, Pipe, Trapeze, Cone, Trian, Ply, Lego, Cover")
+		+ Chân Bàn Văn Phòng (Chân bàn "Nhân viên ,Giám Đốc, Góc L, Bàn Họp ,Cụm 2,Cụm 3,Cụm 4, Cụm 6")
+		+ Hệ Chân Bàn ( Hệ Chân Sắt Hệ "Uconcept, Rectang, Oval, Pipe, Trapeze, Cone, Trian, Ply, Lego, Cover")
+	_Tổng Sản Phẩm Nội Thất Văn Phòng :
+		+ Bàn Văn Phòng : 105
+		+ Ghế Văn Phòng : 47
+		+ Chân Bàn Văn Phòng : 71 
+		+ Hệ Bàn : 78
+		+ Hệ Chân Bàn : 77
+			Tổng : 378 sản phẩm .
+Về Css : canh chữ product ,màu , hover icon(trang chủ), hover tráng gương img (tin tức), ....
+
+Phần Của Thanh Trà ( được giao cho 2 Trang từ 15/7/2021 )
+	+ Nội Thất Gia Đình (Phòng khách , Phòng Ngủ, Nhà Vệ Sinh)
+		+ Phòng khách: Kệ Tivi , Sofa, Kệ Trang Trí , Tủ Giày.
+		+ Phòng Ngủ : 
+		+ Nhà Vệ Sinh : 
+	+ Nội Thất Trường Học ( chưa làm gì )
